@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_color">#7b1fa2</color>
+    <color name="material_500">#9c27b0</color>
+    <color name="material_700">#7b1fa2</color>
+    <color name="drawer_arrow_second_color">#303f9f</color>
+</resources>
